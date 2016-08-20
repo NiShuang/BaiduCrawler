@@ -21,7 +21,7 @@ class BaiduAutoCrawler:
             self.host = 'tongji.baidu.com'
             self.origin = 'http://tongji.baidu.com'
             self.username = 'insta360'
-            self.password = 'Kokiakiko123'
+            self.password = '******'
             self.user_agent = 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36'
             # self.cookie = 'BAIDUID=7DDC1F27CA20A3B1D0A338F23CDE09A8:FG=1; BIDUPSID=7DDC1F27CA20A3B1D0A338F23CDE09A8; PSTM=1468217799; uc_login_unique=e04fb29dcc1f2664a074e7c0aa20b577;hm_usertype=0; hm_username=insta360; SIGNIN_UC=70a2711cf1d3d9b1a82d2f87d633bd8a02184729599;__cas__st__=3c71942bc3ee051b589e2605fbb6accb4e456fe993d7a5f638b21c9f8a9fff912996bf6076b49b317b46e034; __cas__id__=10551064; H_PS_PSSID=1420_20537_20416_15246_12233;  '
             # self.cookie = ' BIDUPSID=7DDC1F27CA20A3B1D0A338F23CDE09A8; PSTM=1468217799; H_PS_PSSID=1420_20537_20416_15246_12233;'
