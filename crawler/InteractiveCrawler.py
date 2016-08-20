@@ -17,7 +17,7 @@ element = driver.find_element_by_id("UserName")
 element.send_keys("insta360")
 
 element = driver.find_element_by_id("Password")
-element.send_keys("Kokiakiko123")
+element.send_keys("******")
 
 element = driver.find_element_by_id("Valicode")
 input = raw_input("Please input valicode:");
