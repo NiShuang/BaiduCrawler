@@ -43,7 +43,7 @@ class BaiduCrawler:
             self.driver.get('http://tongji.baidu.com/web/welcome/login')
 
             element = self.driver.find_element_by_class_name("login-trigger")
-            element.click();
+            element.click()
 
             element = self.driver.find_element_by_id("UserName")
             element.send_keys(self.username)

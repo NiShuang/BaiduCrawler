@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f394fd02-06ac-4ca6-b614-b0a06c055b07" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler/BaiduAutoCrawler.py" afterPath="$PROJECT_DIR$/crawler/BaiduAutoCrawler.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler/BaiduUICrawler.py" afterPath="$PROJECT_DIR$/crawler/BaiduUICrawler.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler/InteractiveCrawler.py" afterPath="$PROJECT_DIR$/crawler/InteractiveCrawler.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler/RequestCrawler.py" afterPath="$PROJECT_DIR$/crawler/RequestCrawler.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler/BaiduCrawler.py" afterPath="$PROJECT_DIR$/crawler/BaiduCrawler.py" />
     </list>
     <ignored path="BaiduCrawling.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,57 +40,25 @@
       <file leaf-file-name="BaiduCrawler.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/crawler/BaiduCrawler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+            <state relative-caret-position="561">
+              <caret line="45" column="27" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
               <folding>
                 <element signature="e#24#54#0" expanded="true" />
-                <element signature="e#4990#7951#0" expanded="false" />
-                <element signature="e#8052#10869#0" expanded="false" />
-                <element signature="e#10738#10869#0" expanded="false" />
-                <element signature="e#10961#13665#0" expanded="false" />
-                <element signature="e#12164#13477#0" expanded="false" />
-                <element signature="e#13534#13665#0" expanded="false" />
-                <element signature="e#13760#16420#0" expanded="false" />
-                <element signature="e#16522#18172#0" expanded="false" />
-                <element signature="e#17811#17984#0" expanded="false" />
-                <element signature="e#18041#18172#0" expanded="false" />
-                <element signature="e#18272#19951#0" expanded="false" />
-                <element signature="e#19820#19951#0" expanded="false" />
-                <element signature="e#20089#22183#0" expanded="false" />
-                <element signature="e#22224#22710#0" expanded="false" />
+                <element signature="e#4989#7950#0" expanded="false" />
+                <element signature="e#8051#10868#0" expanded="false" />
+                <element signature="e#10737#10868#0" expanded="false" />
+                <element signature="e#10960#13664#0" expanded="false" />
+                <element signature="e#12163#13476#0" expanded="false" />
+                <element signature="e#13533#13664#0" expanded="false" />
+                <element signature="e#13759#16419#0" expanded="false" />
+                <element signature="e#16521#18171#0" expanded="false" />
+                <element signature="e#17810#17983#0" expanded="false" />
+                <element signature="e#18040#18171#0" expanded="false" />
+                <element signature="e#18271#19950#0" expanded="false" />
+                <element signature="e#19819#19950#0" expanded="false" />
+                <element signature="e#20088#22182#0" expanded="false" />
+                <element signature="e#22223#22709#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BaiduAutoCrawler.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crawler/BaiduAutoCrawler.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-564">
-              <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-              <folding>
-                <element signature="e#23#53#0" expanded="true" />
-                <element signature="e#926#1357#0" expanded="false" />
-                <element signature="e#3577#3746#0" expanded="false" />
-                <element signature="e#3995#6102#0" expanded="false" />
-                <element signature="e#5265#5913#0" expanded="false" />
-                <element signature="e#6228#8285#0" expanded="false" />
-                <element signature="e#7449#8097#0" expanded="false" />
-                <element signature="e#8154#8285#0" expanded="false" />
-                <element signature="e#8330#9365#0" expanded="false" />
-                <element signature="e#9406#9770#0" expanded="false" />
-                <element signature="e#9427#9634#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -134,8 +99,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="475" />
-    <option name="y" value="79" />
+    <option name="x" value="33" />
+    <option name="y" value="30" />
     <option name="width" value="1708" />
     <option name="height" value="993" />
   </component>
@@ -219,7 +184,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fetch_baidu_index-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../新浪微博爬虫/[源码] 爬取移动端微博信息 (强推)/2016-04-23" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
@@ -448,10 +413,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="475" y="79" width="1708" height="993" extended-state="0" />
+    <frame x="33" y="30" width="1708" height="993" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15109223" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15473302" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -525,13 +490,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/crawler/test.py" />
     <entry file="file://$PROJECT_DIR$/crawler/cutImage.py" />
-    <entry file="file://$PROJECT_DIR$/crawler/RequestCrawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/RequestCrawler.py" />
     <entry file="file://$PROJECT_DIR$/crawler/BaiduAutoCrawler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -541,13 +500,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/crawler/test.py" />
     <entry file="file://$PROJECT_DIR$/crawler/cutImage.py" />
-    <entry file="file://$PROJECT_DIR$/crawler/RequestCrawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/RequestCrawler.py" />
     <entry file="file://$PROJECT_DIR$/crawler/BaiduAutoCrawler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -556,13 +509,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/crawler/test.py" />
-    <entry file="file://$PROJECT_DIR$/crawler/RequestCrawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2223">
-          <caret line="120" column="40" selection-start-line="120" selection-start-column="40" selection-end-line="120" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/RequestCrawler.py" />
     <entry file="file://$PROJECT_DIR$/crawler/BaiduAutoCrawler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -571,13 +518,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/crawler/test.py" />
-    <entry file="file://$PROJECT_DIR$/crawler/RequestCrawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2223">
-          <caret line="120" column="40" selection-start-line="120" selection-start-column="40" selection-end-line="120" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/RequestCrawler.py" />
     <entry file="file://$PROJECT_DIR$/crawler/BaiduAutoCrawler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -586,13 +527,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/crawler/test.py" />
-    <entry file="file://$PROJECT_DIR$/crawler/RequestCrawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2223">
-          <caret line="120" column="40" selection-start-line="120" selection-start-column="40" selection-end-line="120" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/RequestCrawler.py" />
     <entry file="file://$PROJECT_DIR$/crawler/BaiduAutoCrawler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -601,13 +536,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/crawler/test.py" />
-    <entry file="file://$PROJECT_DIR$/crawler/RequestCrawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2223">
-          <caret line="120" column="40" selection-start-line="120" selection-start-column="40" selection-end-line="120" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/RequestCrawler.py" />
     <entry file="file://$PROJECT_DIR$/crawler/BaiduAutoCrawler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -616,21 +545,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/crawler/test.py" />
-    <entry file="file://$PROJECT_DIR$/crawler/RequestCrawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2223">
-          <caret line="120" column="40" selection-start-line="120" selection-start-column="40" selection-end-line="120" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/RequestCrawler.py" />
     <entry file="file://$PROJECT_DIR$/crawler/InteractiveCrawler.py" />
-    <entry file="file://$PROJECT_DIR$/crawler/RequestCrawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/RequestCrawler.py" />
     <entry file="file://$PROJECT_DIR$/crawler/InteractiveCrawler.py" />
     <entry file="file://C:/Python27/Lib/urllib2.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -706,13 +623,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crawler/ghostdriver.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/ghostdriver.log" />
     <entry file="file://$PROJECT_DIR$/crawler/TaobaoCrawler.py" />
     <entry file="file://$PROJECT_DIR$/crawler/test.py" />
     <entry file="file://$PROJECT_DIR$/crawler/screenshot.png">
@@ -720,78 +631,43 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crawler/BaiduUICrawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="144" column="0" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/BaiduUICrawler.py" />
+    <entry file="file://$PROJECT_DIR$/crawler/RequestCrawler.py" />
+    <entry file="file://$PROJECT_DIR$/crawler/InteractiveCrawler.py" />
     <entry file="file://$PROJECT_DIR$/crawler/BaiduAutoCrawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-564">
-          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-          <folding>
-            <element signature="e#23#53#0" expanded="true" />
-            <element signature="e#926#1357#0" expanded="false" />
-            <element signature="e#3577#3746#0" expanded="false" />
-            <element signature="e#3995#6102#0" expanded="false" />
-            <element signature="e#5265#5913#0" expanded="false" />
-            <element signature="e#6228#8285#0" expanded="false" />
-            <element signature="e#7449#8097#0" expanded="false" />
-            <element signature="e#8154#8285#0" expanded="false" />
-            <element signature="e#8330#9365#0" expanded="false" />
-            <element signature="e#9406#9770#0" expanded="false" />
-            <element signature="e#9427#9634#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawler/RequestCrawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1615">
-          <caret line="98" column="51" selection-start-line="98" selection-start-column="51" selection-end-line="98" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawler/InteractiveCrawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
-          <folding />
+        <state relative-caret-position="153">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-          <folding />
+        <state relative-caret-position="85">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/crawler/BaiduCrawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        <state relative-caret-position="561">
+          <caret line="45" column="27" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
           <folding>
             <element signature="e#24#54#0" expanded="true" />
-            <element signature="e#4990#7951#0" expanded="false" />
-            <element signature="e#8052#10869#0" expanded="false" />
-            <element signature="e#10738#10869#0" expanded="false" />
-            <element signature="e#10961#13665#0" expanded="false" />
-            <element signature="e#12164#13477#0" expanded="false" />
-            <element signature="e#13534#13665#0" expanded="false" />
-            <element signature="e#13760#16420#0" expanded="false" />
-            <element signature="e#16522#18172#0" expanded="false" />
-            <element signature="e#17811#17984#0" expanded="false" />
-            <element signature="e#18041#18172#0" expanded="false" />
-            <element signature="e#18272#19951#0" expanded="false" />
-            <element signature="e#19820#19951#0" expanded="false" />
-            <element signature="e#20089#22183#0" expanded="false" />
-            <element signature="e#22224#22710#0" expanded="false" />
+            <element signature="e#4989#7950#0" expanded="false" />
+            <element signature="e#8051#10868#0" expanded="false" />
+            <element signature="e#10737#10868#0" expanded="false" />
+            <element signature="e#10960#13664#0" expanded="false" />
+            <element signature="e#12163#13476#0" expanded="false" />
+            <element signature="e#13533#13664#0" expanded="false" />
+            <element signature="e#13759#16419#0" expanded="false" />
+            <element signature="e#16521#18171#0" expanded="false" />
+            <element signature="e#17810#17983#0" expanded="false" />
+            <element signature="e#18040#18171#0" expanded="false" />
+            <element signature="e#18271#19950#0" expanded="false" />
+            <element signature="e#19819#19950#0" expanded="false" />
+            <element signature="e#20088#22182#0" expanded="false" />
+            <element signature="e#22223#22709#0" expanded="false" />
           </folding>
         </state>
       </provider>
